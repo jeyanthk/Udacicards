@@ -23,12 +23,19 @@
     "cryptiles": "^4.1.2",
     "expo": "^21.0.0",
     "fresh": "^0.5.2",
+    "hoek": "^5.0.4",
+    "https-proxy-agent": "^2.2.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "negotiator": "^0.6.1",
     "npm-update-all": "^1.0.1",
+    "randomatic": "^3.1.0",
     "react": "16.0.0-alpha.12",
     "react-native": "^0.48.4",
     "react-navigation": "^1.6.1",
     "react-redux": "^5.0.7",
     "redux": "^3.7.2",
+    "sshpk": "^1.15.1",
     "uuid": "^3.3.2"
   }
 }
